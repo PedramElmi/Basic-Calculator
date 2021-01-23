@@ -5,4 +5,4 @@ This is a basic calculator with .Net Framework and WinForm application wrriten b
 ![Screenshot](https://www.dropbox.com/s/h0vhaelrgkzo2x2/Screenshot%202021-01-23%20174618.png?raw=1)
 
 ## Method
-this application is using System.Data.DataTable().Compute() for calculating the math expression.
+This application is using System.Data.DataTable().Compute() for calculating the math expression.
